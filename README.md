@@ -41,4 +41,4 @@ Enable:
 
 ## 🪪 License
 
-[MIT](https://github.com/lullaby6/spectral-enchantment-data-pack/blob/main/LICENSE)
+[Limited Embed License v1.0](https://github.com/lullaby6/spectral-enchantment-data-pack/blob/main/LICENSE)
