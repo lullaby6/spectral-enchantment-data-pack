@@ -27,18 +27,6 @@ Enchant:
 /enchant @s spectral_enchantment:spectral
 ```
 
-Disable:
-
-```mcfunction
-/datapack disable "file/spectral-enchantment.zip"
-```
-
-Enable:
-
-```mcfunction
-/datapack enable "file/spectral-enchantment.zip"
-```
-
 ## 🪪 License
 
 [Limited Embed License v1.0](https://github.com/lullaby6/spectral-enchantment-data-pack/blob/main/LICENSE)
