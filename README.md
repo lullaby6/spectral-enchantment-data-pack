@@ -9,7 +9,7 @@
 [![Repo Size](https://img.shields.io/github/repo-size/lullaby6/spectral-enchantment-data-pack?logo=dropbox&color=red)](https://github.com/lullaby6/spectral-enchantment-data-pack)
 [![Stars](https://img.shields.io/github/stars/lullaby6/spectral-enchantment-data-pack?logo=github&color=yellow)](https://github.com/lullaby6/spectral-enchantment-data-pack/stargazers)
 
-The `Spectral` enchantment makes arrows glowing arrows.
+The `Spectral` enchantment makes arrows apply glowing, like a spectral arrow!
 
 The enchantment can be obtained from the enchantment table, loot chests or trading with villagers.
 
